@@ -1,0 +1,16 @@
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\GraphingApplication.exe.config
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\GraphingApplication.exe
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\GraphingApplication.pdb
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\obj\Debug\GraphingApplication.csprojResolveAssemblyReference.cache
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\obj\Debug\GraphingApplication.Form1.resources
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\obj\Debug\GraphingApplication.Properties.Resources.resources
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\obj\Debug\GraphingApplication.csproj.GenerateResource.Cache
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\obj\Debug\GraphingApplication.exe
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\obj\Debug\GraphingApplication.pdb
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\OxyPlot.dll
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\OxyPlot.WindowsForms.dll
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\OxyPlot.pdb
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\OxyPlot.xml
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\OxyPlot.WindowsForms.pdb
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\bin\Debug\OxyPlot.WindowsForms.xml
+A:\Documents\CSharpProjects\GraphingApplication\GraphingApplication\obj\Debug\GraphingApplication.GraphingForm.resources
